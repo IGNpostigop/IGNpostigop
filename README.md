@@ -1,6 +1,8 @@
-# Hello world!
-My name is Ignacio, I´m Spanish and a computer engineer.
+# Ignacio Postigo Pérez
+I'm a computer engineer. I use GitHub to share my personal projects and what I'm working on next.
 
+Projects
 
+CheckeaTuOcio: En proceso...
 
 
